@@ -4,6 +4,6 @@
 * Evaluation des actifs financiers 
 * Utilisation du logiciel R
 * Techniques de prévision et conjoncture - Prévision du touriste en Polynésie Française
-* Série temporelle - Touriste en Polynésie Française
+* Série temporelle - Touriste en Polynésie Française avec Gretel et Eviews
 * Economié du Numérique et Innonvation
 * Mémoire - Les effets d’une politique publique de transport sur l’emploi dans les quartiers : Le cas d'Angers

@@ -1,5 +1,5 @@
 # Master_EKAP_travaux
-* Data Mining
+* Data Mining - Etude des phonèmes 
 * Econométrie qualitative - Les déterminants du vote Front National 2017 
 * Evaluation des actifs financiers 
 * Utilisation du logiciel R

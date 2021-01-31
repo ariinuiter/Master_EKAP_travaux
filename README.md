@@ -7,3 +7,4 @@
 * Série temporelle - Touriste en Polynésie Française avec Gretel et Eviews
 * Economie du Numérique et Innonvation
 * Mémoire - Les effets d’une politique publique de transport sur l’emploi dans les quartiers : Le cas d'Angers
+* Méthode de scoring, détection de Fraude pour des transactions bancaire 
